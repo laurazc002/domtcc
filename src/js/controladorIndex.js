@@ -1,5 +1,5 @@
 
-//construyendo arreglos
+/* //construyendo arreglos
 
 // 1. FORMA TRADICIONAL
 let numeros = [1, 2, 3, 4, 5]
@@ -45,3 +45,72 @@ let producto = {
 console.log(producto.precio)
 
 // JSON = Java script object notation, para intercambiar datos 
+*/
+
+let productos = [producto1, producto2, producto3, producto4, producto5, producto6, producto7, producto8 ]
+
+let producto1 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+let producto2 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+let producto3 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+let producto4 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+let producto5 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+let producto6 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+let producto7 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+let producto8 = {
+    nombre : 'Reloj',
+    precio : '45200000',
+    cantidad : '1',
+    foto : 'url',
+    descripcion : 'Reloj Cartier de mujer'
+}
+
+
